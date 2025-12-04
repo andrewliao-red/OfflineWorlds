@@ -8,11 +8,17 @@ video games + franchises whose servers have shut down with no proceeding plans b
 CONCEPT
 
 Offline Worlds is an online archive where people who also share the sense of nostalgia for particular video games that are no longer playable can share info about their video games that they can only ever wish to be able to play again.
+
 If people wish for their ‘dead game’ to be displayed in the archive, they can fill out an online form and provide any important information they wish to include for the archive. 
+
 The style will be in pixel art, as it is a quick and simple way to showcase particular images, and pays homage to the early history of the first-ever video games to be made, as they, too, were done in pixels.
+
 It starts with an opening interface showing the title for Offline Worlds along with a ‘Play’ button.
+
 The player controls a character who ventures into the Offline Worlds museum using WASD keys/arrow keys to move their character around the museum.
+
 If a player stops near a character from a recognizable video game and clicks on them, a sidebar will appear, displaying the name of the popular game the character is from.
+
 Information will include:
 Year of Publication — Year of Shutdown / Death
 Sequels of a game, if the game has more than one in the franchise.
