@@ -1,0 +1,67 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Offline Worlds — Interactive Museum</title>
+  <link rel="stylesheet" href="style.css">
+  <link rel="icon" type="image/png" href="images/offlineworldslogoscaled.png">
+
+</head>
+<body>
+
+  <!-- Header / Title -->
+  <header id="site-header">
+    <img src="images/header.png" alt="Offline Worlds Header" id="header-image">
+  </header>
+
+<br>
+
+  <!-- Main wrapper holding canvas + sidebar -->
+
+  <div id="museum-wrapper">
+
+    <!-- Game container -->
+    <div id="game-container">
+      <canvas id="gameCanvas" width="1200" height="600" aria-label="Museum exploration canvas"></canvas>
+
+      <!-- CRT + UI overlays -->
+      <div id="crt-overlay" aria-hidden="true"></div>
+      <div id="ui-top">
+        <div id="instruction">Use <kbd>WASD</kbd> or <kbd>Arrow</kbd> keys to move — Click a display when near to inspect</div>
+      </div>
+    </div>
+
+    <!-- Sidebar for exhibit info -->
+    <aside id="sidebar" class="closed" aria-hidden="true">
+      <div id="sidebar-inner">
+        <button id="closeBtn" title="Back to Museum" aria-label="Close exhibit panel">←</button>
+
+        <div id="exhibitContent" tabindex="0">
+          <h2 id="exTitle">Title</h2>
+          <p id="exBody">Content</p>
+        </div>
+      </div>
+    </aside>
+
+  </div>
+
+  <!-- Preload images (script will use images/*.png) -->
+  <div id="preload" style="display:none;">
+    <img src="images/ChellPortal.png" alt="blah blah blah blah blah" />
+    <img src="images/Coach_4D.png" alt="" />
+    <img src="images/Concord.png" alt="" />
+    <img src="images/DeadSpace.png" alt="" />
+    <img src="images/HalfLife.png" alt="" />
+    <img src="images/KalWardin.png" alt="" />
+    <img src="images/PrototypeMercer.png" alt="" />
+    <img src="images/ReginaDino.png" alt="" />
+    <img src="images/Scout.png" alt="" />
+    <img src="images/SplinterCell.png" alt="" />
+    <img src="images/StarWarsArcann.png" alt="" />
+    <img src="images/UnrealXan.png" alt="" />
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
