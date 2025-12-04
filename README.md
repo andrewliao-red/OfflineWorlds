@@ -1,10 +1,12 @@
 OFFLINE WORLDS
 
 PRESS ‘Start’ to remember…
+
 Offline Worlds is an online archive that documents 
 video games + franchises whose servers have shut down with no proceeding plans by their creators & developers.
 
 CONCEPT
+
 Offline Worlds is an online archive where people who also share the sense of nostalgia for particular video games that are no longer playable can share info about their video games that they can only ever wish to be able to play again.
 If people wish for their ‘dead game’ to be displayed in the archive, they can fill out an online form and provide any important information they wish to include for the archive. 
 The style will be in pixel art, as it is a quick and simple way to showcase particular images, and pays homage to the early history of the first-ever video games to be made, as they, too, were done in pixels.
@@ -20,9 +22,11 @@ Elements that made this game popular
 Cause of shutdown
 
 MEDIUM
+
 The Offline Worlds project will be a digital website in the format of a video game.
 
 CALL TO ACTION:
+
 While the general cause is to encourage people to support this archive by posting their favorite video games that have died out and perhaps build something of a community, there is actually a deeper meaning for this website…
 
 It is to teach people that 
